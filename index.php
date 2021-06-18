@@ -52,7 +52,7 @@ $con->close();
 <body>
     <img class= "bg" src= "bg.jpg" alt="USICT, GGSIPU">
     <div class="container">
-        <h1> Welcome to USICT, GGSIPU Trip form </h3>  
+        <h1> Welcome to AKGEC, AKTU Trip form </h3>  
          
         <p> Enter Your details and submit this form to comfirm your Participation in the trip </p>
         
